@@ -1,9 +1,12 @@
 # Neural Networks History Primer and Utilizing  Convolutional Architectures
 
-Here's a 2-part talk I gave due to the massive progress and interest in deep learning.  
-<br>
+Here's a 2-part talk I gave due to the massive progress and interest in deep learning.
+<br>  
+[Powerpoint Presenation: ](https://github.com/eugeneh101/History-And-Application-of-Neural-Networks/blob/master/Neural%20Networks%202%20Part%20Presentation.pdf) Neural Networks 2 Part Presentation.pdf  
+[Coding Implementation: ](https://github.com/eugeneh101/History-And-Application-of-Neural-Networks/blob/master/History%20And%20Applications%20of%20Neural%20Networks.ipynb) History And Applications of Neural Networks.ipynb
+<br>  
 **Part I: A Comprehensive Primer of the History of Neural Networks:**
-Starting from the inkling then known as Cybernetics of the 1940s, we delve into neural networks reborn as Connectionism in the late 1980s. Then, we jump to the current rebranding of neural nets as deep learning from 2006 and onwards. We talk about the advances made in hardware as well as fundamental algorithmic improvements--from the Canadians led by Geoff Hinton as well to the British with the Visual Geometry Group.  
+Starting from the inkling then known as Cybernetics of the 1940s, we delve into neural networks reborn as Connectionism in the late 1980s. Then, we jump to the current rebranding of neural nets as deep learning from 2006 and onwards. We talk about the advances made in hardware as well as fundamental algorithmic improvements--from the Canadians led by Geoff Hinton as well to the British with the Visual Geometry Group.
 <br>  
 **Part II: A Walk Through Convolutional Architectures over the Years:**
 Starting with an interesting challenge on 
