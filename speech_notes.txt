@@ -138,3 +138,6 @@ Sources:
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
 https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/
+https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
+https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/
+https://arxiv.org/pdf/1707.09725.pdf
