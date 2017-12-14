@@ -2,7 +2,7 @@
 
 Here's a 2-part talk I gave due to the massive progress and interest in deep learning.
 <br>  
-[Powerpoint Presenation: ](https://github.com/eugeneh101/History-And-Application-of-Neural-Networks/blob/master/Neural%20Networks%202%20Part%20Presentation.pdf) Neural Networks 2 Part Presentation.pdf  
+[Powerpoint Presentation: ](https://github.com/eugeneh101/History-And-Application-of-Neural-Networks/blob/master/Neural%20Networks%202%20Part%20Presentation.pdf) Neural Networks 2 Part Presentation.pdf  
 [Coding Implementation: ](https://github.com/eugeneh101/History-And-Application-of-Neural-Networks/blob/master/History%20And%20Applications%20of%20Neural%20Networks.ipynb) History And Applications of Neural Networks.ipynb
 <br>  
 **Part I: A Comprehensive Primer of the History of Neural Networks:**
